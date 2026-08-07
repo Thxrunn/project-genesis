@@ -1,0 +1,11 @@
+biopython
+jupyter
+matplotlib
+networkx
+numpy
+pandas
+plotly
+python-dotenv
+requests
+scikit-learn
+streamlit

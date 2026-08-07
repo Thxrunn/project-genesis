@@ -1,0 +1,9 @@
+Rank,Symbol,Paper_Count,Evidence_Score,Gap_Status,Gap_Priority
+1,GIGYF2,0,50,Underrepresented in recent sample,100
+2,MAPT,0,50,Underrepresented in recent sample,100
+3,PARK7,0,50,Underrepresented in recent sample,100
+4,PRKN,0,50,Underrepresented in recent sample,100
+5,SNCA,0,50,Underrepresented in recent sample,100
+6,UCHL1,0,50,Underrepresented in recent sample,100
+7,LRRK2,1,60,Limited recent coverage,80
+8,GBA1,2,70,Limited recent coverage,60

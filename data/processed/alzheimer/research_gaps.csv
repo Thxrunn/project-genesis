@@ -1,0 +1,7 @@
+Rank,Symbol,Paper_Count,Evidence_Score,Gap_Status,Gap_Priority
+1,ABCA7,0,50,Underrepresented in recent sample,100
+2,PSEN1,0,50,Underrepresented in recent sample,100
+3,PSEN2,0,50,Underrepresented in recent sample,100
+4,TOMM40,0,50,Underrepresented in recent sample,100
+5,APP,2,70,Limited recent coverage,60
+6,APOE,3,80,Higher recent coverage,40
